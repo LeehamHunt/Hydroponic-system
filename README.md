@@ -49,7 +49,7 @@ Major design considerations included:
 * Manufacturability
 * Weight reduction
 
-![CAD Assembly](images/cad_assembly.png)
+![CAD Assembly](images/HydroponicsExploded.png)
 
 ---
 
@@ -68,6 +68,8 @@ Engineering improvements focused on:
 
 Each iteration was evaluated and refined through CAD modeling and prototype testing.
 
+![Iterations](images/prelim design.png)
+
 ---
 
 ## Manufacturing & Prototyping
@@ -83,7 +85,7 @@ Manufacturing methods included:
 
 Prototype evaluation guided subsequent design revisions and validation.
 
-![Prototype](images/HydroponicsBOM.png)
+![Prototype](images/HydroponicsPrototype.png)
 
 ---
 
