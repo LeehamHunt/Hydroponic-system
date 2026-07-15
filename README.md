@@ -1,6 +1,6 @@
 # Modular Vertical Hydroponic Growing System
 
-![Final Assembly](images/final_render.png)
+![Final Assembly](images/hydroRender.png)
 
 ## Overview
 
@@ -83,7 +83,7 @@ Manufacturing methods included:
 
 Prototype evaluation guided subsequent design revisions and validation.
 
-![Prototype](images/HydroponicsBOM)
+![Prototype](images/HydroponicsBOM.png)
 
 ---
 
