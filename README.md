@@ -1,6 +1,6 @@
 # Modular Vertical Hydroponic Growing System
 
-![Final Assembly](images/hydroRender.png)
+<img src="https://github.com/LeehamHunt/Hydroponic-system/blob/main/images/hydroRender.PNG" alt="Hydroponics" width="fill">
 
 ## Overview
 
@@ -66,7 +66,7 @@ Engineering improvements focused on:
 
 Each iteration was evaluated and refined through CAD modeling and prototype testing.
 
-![Iterations](images/prelim_design.png)
+<img src="https://github.com/LeehamHunt/Hydroponic-system/blob/main/images/prelim_design.png" width="400">
 
 ---
 
@@ -83,7 +83,7 @@ Manufacturing methods included:
 
 Prototype evaluation guided subsequent design revisions and validation.
 
-![Prototype](images/HydroponicsPrototype.png)
+<img src= "https://github.com/LeehamHunt/Hydroponic-system/blob/main/images/HydroponicsPrototype.jpg" align="center" width="200" >
 
 ---
 
