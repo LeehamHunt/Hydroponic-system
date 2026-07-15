@@ -31,8 +31,6 @@ The hydroponic system consists of:
 * Drainage and recirculation system
 * Interchangeable growing modules
 
-![System Overview](images/system_overview.png)
-
 ---
 
 ## Mechanical Design
@@ -68,7 +66,7 @@ Engineering improvements focused on:
 
 Each iteration was evaluated and refined through CAD modeling and prototype testing.
 
-![Iterations](images/prelim design.png)
+![Iterations](images/prelim_design.png)
 
 ---
 
